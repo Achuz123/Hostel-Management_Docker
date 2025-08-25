@@ -1,0 +1,13 @@
+# Git files
+.git
+.gitignore
+
+# Node modules - these will be installed inside the container
+node_modules
+
+# Environment files with secrets
+.env
+
+# Docker files
+Dockerfile
+.dockerignore
